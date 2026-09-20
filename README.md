@@ -33,6 +33,7 @@ Contoh dari textContent:
 </script>
 # Tag <strong> tidak di-render, melainkan ditampilkan sebagai teks apa adanya.
 
+
 2.	Kolom komentar di situs berita 
 Sebuah situs berita memiliki fitur kolom komentar di bawah setiap artikel. Pengunjung bisa mengetik komentar, dan komentar tersebut langsung ditampilkan ke semua pembaca lain. Developer menggunakan innerHTML untuk menampilkan komentar tanpa validasi atau escape.
 
